@@ -1,3 +1,3 @@
 # Experiments
 
-This is an experimets for deep linking. 
+This is an experimet for deep linking. 
